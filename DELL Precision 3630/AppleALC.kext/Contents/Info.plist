@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>23B74</string>
+	<string>23C64</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.8.7</string>
+	<string>1.8.9</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,7 +25,7 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.8.7</string>
+	<string>1.8.9</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -33,15 +33,15 @@
 	<key>DTPlatformName</key>
 	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>14.0</string>
+	<string>14.2</string>
 	<key>DTSDKBuild</key>
-	<string>23A334</string>
+	<string>23C53</string>
 	<key>DTSDKName</key>
-	<string>macosx14.0</string>
+	<string>macosx14.2</string>
 	<key>DTXcode</key>
-	<string>1501</string>
+	<string>1510</string>
 	<key>DTXcodeBuild</key>
-	<string>15A507</string>
+	<string>15C65</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>ALCUserClientProvider</key>
@@ -11561,6 +11561,30 @@
 					AwAAAA==
 					</data>
 					<key>CodecID</key>
+					<integer>283904153</integer>
+					<key>Comment</key>
+					<string>ALC898, 4 Line Out by Andrey1970</string>
+					<key>ConfigData</key>
+					<data>
+					AUccAAFHHUABRx4RAUcfkAFXHBABVx0QAVce
+					AQFXHwEBZxwgAWcdYAFnHgEBZx8BAYccMAGH
+					HZABhx6gAYcfkAGnHEABpx0wAacegQGnHwEB
+					lxxQAZcdkAGXHoEBlx8CAbccYAG3HUABtx4h
+					AbcfAgHnHHAB5x1hAeceSwHnHwEBdxyAAXcd
+					IAF3HgEBdx8BAfcc8AH3HQAB9x4AAfcfSQEX
+					HPABFx0AARceAAEXH0k=
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>101</integer>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>CodecID</key>
 					<integer>283904256</integer>
 					<key>Comment</key>
 					<string>toleda - ALC1150 </string>
@@ -15433,10 +15457,10 @@
 					<integer>283902550</integer>
 					<key>ConfigData</key>
 					<data>
-					ASccAAEnHQABJx4QAScfQAIXHBACFx0QAhce
-					IQIXHwICFwwCAeccIAHnHREB5x5FAecfAQHX
-					HCkB1x3AAdceRAHXH0ABlxwwAZcdEAGXHqAB
-					lx+SAbccQAG3HRABtx4RAbcfAQG3DAI=
+					AZccMAGXHRABlx6gAZcfkgIXHBACFx0QAhce
+					IQIXHwICFwwCAbccQAG3HRABtx4RAbcfAQG3
+					DAIB5xwgAecdEQHnHkUB5x8BAUcc8AFHHREB
+					Rx4RAUcfQQFHDAI=
 					</data>
 					<key>FuncGroup</key>
 					<integer>1</integer>
@@ -15444,7 +15468,7 @@
 					<integer>68</integer>
 					<key>WakeConfigData</key>
 					<data>
-					AhcMAgG3DAI=
+					AhcMAgG3DAIBRwwC
 					</data>
 					<key>WakeVerbReinit</key>
 					<true/>
@@ -15659,6 +15683,35 @@
 					<key>WakeConfigData</key>
 					<data>
 					AUcMAgFXDAI=
+					</data>
+					<key>WakeVerbReinit</key>
+					<true/>
+				</dict>
+				<dict>
+					<key>AFGLowPowerState</key>
+					<data>
+					AwAAAA==
+					</data>
+					<key>Codec</key>
+					<string>IDT 92HD81B1X5 by SkyrilHD for HP Elitebook 8x70 series</string>
+					<key>CodecID</key>
+					<integer>287143429</integer>
+					<key>ConfigData</key>
+					<data>
+					AKccMACnHRAApx4BAKcfIQCnDAIAtxwhALcd
+					EAC3HiEAtx8EALcMAgDHHBEAxx0QAMceoQDH
+					HwQAxwwCANccIADXHQEA1x4TANcfmQDXDAIA
+					5xzwAOcdAADnHvAA5x9AAOcMAgD3HBAA9x0Q
+					APcegQD3HyEA9wwCARccAAEXHQEBFx6jARcf
+					mQ==
+					</data>
+					<key>FuncGroup</key>
+					<integer>1</integer>
+					<key>LayoutID</key>
+					<integer>76</integer>
+					<key>WakeConfigData</key>
+					<data>
+					AKcMAgC3DAIAxwwCANcMAgDnDAIA9wwC
 					</data>
 					<key>WakeVerbReinit</key>
 					<true/>
